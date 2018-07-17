@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 13 17:38:03 2018
+Created on Wed Jan 28 14:11:33 2017
 #Buildinga a chatbot with deep learning
-@author: gustavomendez
+@author: debanjangoswami
 """
 
 import numpy as np
